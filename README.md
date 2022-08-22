@@ -1,1 +1,2 @@
-# alx-pre_coursemy-first-project
+# alx-pre_course
+my-first-project
